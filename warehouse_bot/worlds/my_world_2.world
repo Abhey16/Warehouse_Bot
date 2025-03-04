@@ -690,7 +690,10 @@
       </script>
     </actor> -->
 
-    <model name="box">
+  </world>
+</sdf>
+
+    <!-- <model name="box">
       <link name="box_link">
         <visual name="visual">
           <geometry>
@@ -735,4 +738,4 @@
     </model>
 
   </world>
-</sdf>
+</sdf> -->

@@ -3,8 +3,8 @@
 <package format="3">
   <name>warehouse_bot</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="abhey@todo.todo">abhey</maintainer>
+  <description>This package aims to launch a turtlebot in an dynamic environment and navigate through the environment to complete certain tasks</description>
+  <maintainer email="abhey2526@gmail.com">abhey</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

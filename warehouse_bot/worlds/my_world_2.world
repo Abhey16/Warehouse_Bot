@@ -689,11 +689,11 @@
         </trajectory>
       </script>
     </actor> -->
-
+<!-- 
   </world>
-</sdf>
+</sdf> -->
 
-    <!-- <model name="box">
+    <model name="box">
       <link name="box_link">
         <visual name="visual">
           <geometry>
@@ -738,4 +738,4 @@
     </model>
 
   </world>
-</sdf> -->
+</sdf>

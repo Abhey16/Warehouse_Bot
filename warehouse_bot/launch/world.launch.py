@@ -23,7 +23,8 @@ def generate_launch_description():
     world = os.path.join(
         get_package_share_directory(current_package),
         'worlds',
-        'my_world_2.world'
+        # 'my_world_2.world',
+        'warehouse.world'
     )
 
     #Gazebo 
